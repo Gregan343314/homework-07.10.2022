@@ -13,7 +13,7 @@
  	while (n < 10000 || n > 99999)
 
  {
- 	    Console.WriteLine("Вы ошиблись! Введите пятизначное число: ");
+ 	    Console.WriteLine("Ошибка! Введите пятизначное число: ");
 
  	    n = Convert.ToInt32(Console.ReadLine());
  }
@@ -24,8 +24,8 @@
 
  	if (a==b)
 
-      Console.WriteLine("Число является палиндромом");
+      Console.WriteLine("Число палиндромом");
 
  	else
     
-     Console.WriteLine("Число не является палиндромом");
+     Console.WriteLine("Число не палиндромом");
