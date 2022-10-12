@@ -1,0 +1,16 @@
+E:\GB\Homework 07.10.2022\Task\Task19\bin\Debug\net6.0\Task19.exe
+E:\GB\Homework 07.10.2022\Task\Task19\bin\Debug\net6.0\Task19.deps.json
+E:\GB\Homework 07.10.2022\Task\Task19\bin\Debug\net6.0\Task19.runtimeconfig.json
+E:\GB\Homework 07.10.2022\Task\Task19\bin\Debug\net6.0\Task19.dll
+E:\GB\Homework 07.10.2022\Task\Task19\bin\Debug\net6.0\ref\Task19.dll
+E:\GB\Homework 07.10.2022\Task\Task19\bin\Debug\net6.0\Task19.pdb
+E:\GB\Homework 07.10.2022\Task\Task19\obj\Debug\net6.0\Task19.GlobalUsings.g.cs
+E:\GB\Homework 07.10.2022\Task\Task19\obj\Debug\net6.0\Task19.csproj.AssemblyReference.cache
+E:\GB\Homework 07.10.2022\Task\Task19\obj\Debug\net6.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\Homework 07.10.2022\Task\Task19\obj\Debug\net6.0\Task19.AssemblyInfoInputs.cache
+E:\GB\Homework 07.10.2022\Task\Task19\obj\Debug\net6.0\Task19.AssemblyInfo.cs
+E:\GB\Homework 07.10.2022\Task\Task19\obj\Debug\net6.0\Task19.csproj.CoreCompileInputs.cache
+E:\GB\Homework 07.10.2022\Task\Task19\obj\Debug\net6.0\Task19.dll
+E:\GB\Homework 07.10.2022\Task\Task19\obj\Debug\net6.0\ref\Task19.dll
+E:\GB\Homework 07.10.2022\Task\Task19\obj\Debug\net6.0\Task19.pdb
+E:\GB\Homework 07.10.2022\Task\Task19\obj\Debug\net6.0\Task19.genruntimeconfig.cache
